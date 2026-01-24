@@ -1,2 +1,2 @@
-# 100-days-of-Python
-Learning Python.
+### Python-Class
+This is my journey of learning Python.
